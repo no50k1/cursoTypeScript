@@ -1,0 +1,9 @@
+instalar typescript: npm i -g typescript
+version de typescript: tsc --version
+compilar un archivo typescript: tsc nombre_archivo.ts
+para generar el archivo tsconfig.json: tsc --init
+para compilar todos los archivos typescript de un py: tsc
+modo observador: tsc --watch / tsc -w
+funcion anonima auto invocada: (() => {})()
+undefined no es lo mismmo que null: undefined === null return false
+null no es lo mismo que void
