@@ -12,3 +12,4 @@
     avengers = Number('55A'); // NaN(Not a Number) es considerado un number
     console.log({ avengers });
 })();
+//# sourceMappingURL=numbers.js.map

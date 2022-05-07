@@ -8,3 +8,4 @@
     // es valido siempre que en el tsconfig.json el "strictNullChecks": false,
     //let vacio: null = undefined;
 })();
+//# sourceMappingURL=null-undefined.js.map
