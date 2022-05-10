@@ -7,3 +7,4 @@ modo observador: tsc --watch / tsc -w
 funcion anonima auto invocada: (() => {})()
 undefined no es lo mismmo que null: undefined === null return false
 null no es lo mismo que void
+outFile en tsconfig es para exportar el archivo js generado del proyecto

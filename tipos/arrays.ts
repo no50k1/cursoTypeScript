@@ -11,4 +11,5 @@
 
     villians.forEach( (v,i, villians) => console.log( v.toUpperCase(), i, villians))
 
+    numbers.forEach( v => console.log( v ));
 })()
